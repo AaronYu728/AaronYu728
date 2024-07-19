@@ -1,22 +1,12 @@
-# [Aaron Yu]
-
-### 👋 Hi there!
+# <div align="center">Hi! My name is Bin(Aaron) Yu</div>
 
 I am an experienced iOS developer with 8 years of mobile application development. Recently, I have expanded my skill set to become a front-end or full-stack developer. Over the past few months, I completed an online full-stack development course, undertaking numerous practical exercises and projects.
 
 I’m currently looking for a Full-Stack Developer or Front-End Developer position !!!
 ---
 
-## 🛠 Technical Skills and Attributes
-
-- **Languages & Frameworks:**
-  - HTML, CSS, JavaScript, React.js, Node.js, Express.js, PHP, MySQL, PostgreSQL, Objective-C, Swift, SwiftUI
-- **Development Tools & Platforms:**
-  - VSCode, Git, GitHub, Postman, Xcode
-  - Bootstrap, Material-UI
-- **Project Management:**
-  - Agile methodologies, Jira, Confluence
-  - Team leadership and cross-functional coordination
+- **Languages & Frameworks & Tools:**
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,bootstrap,materialui,php,mysql,postgres,apple,swift,vscode,postman,git,github,vercel,jquery)](https://skillicons.dev)
 
 ---
 
@@ -48,6 +38,7 @@ I’m currently looking for a Full-Stack Developer or Front-End Developer positi
   - Conducted regular project meetings, provided status updates to stakeholders, and resolved any issues.
 ## 📫 Contact
 
-- [LinkedIn](www.linkedin.com/in/aaronyu728)
-- [Email](aaron.yu728@gmail.com)
+<a href="https://www.linkedin.com/in/aaronyu728">
+				<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="logo" width="40" height="40">
+</a>
 
