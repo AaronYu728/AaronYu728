@@ -1,4 +1,4 @@
-# <div align="center">Hi! My name is Bin(Aaron) Yu</div>
+# <div align="center">Hi! My name is Aaron Yu</div>
 
 I am an experienced iOS developer with 8 years of mobile application development. Recently, I have expanded my skill set to become a front-end or full-stack developer. Over the past few months, I completed an online full-stack development course, undertaking numerous practical exercises and projects.
 
